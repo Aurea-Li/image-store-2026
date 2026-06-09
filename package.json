@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "generate:display": "node scripts/generate-display-images.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {}
+}

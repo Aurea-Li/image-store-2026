@@ -1,0 +1,43 @@
+name: Generate display images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.jpg"
+      - "**.jpeg"
+      - "scripts/generate-display-images.mjs"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/generate-display-images.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate display images
+        run: npm run generate:display
+
+      - name: Commit generated images
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: Generate display images
+          file_pattern: display package-lock.json
