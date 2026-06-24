@@ -3092,5 +3092,159 @@
       "maxWidth": 1600,
       "quality": 84
     }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2631.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1796289
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 265545,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2642-positive.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2202787
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 247066,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2646.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1960482
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 288904,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2647.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2250161
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 335744,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2650-positive.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1943402
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 350332,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2652.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1642924
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 218100,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2654.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2335100
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 428419,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2655.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2225917
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 364855,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2656.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2233270
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 341899,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/untitled-1.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 671886
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 278254,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/untitled-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1193927
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 626836,
+      "maxWidth": 1600,
+      "quality": 84
+    }
   }
 }
