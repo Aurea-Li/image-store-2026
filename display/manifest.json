@@ -3233,6 +3233,118 @@
       "quality": 84
     }
   },
+  "2026-06-23-black-and-white-dev/IMG_2665.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3715373
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 530906,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2672.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3375512
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 481566,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2674-positive.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2134,
+      "bytes": 3643425
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 509355,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2679.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3077104
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 409912,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2685.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3358435
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 429686,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2687.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3678991
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 553324,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/IMG_2692.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3374525
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 466663,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/untitled-1-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1529993
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 665398,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
   "2026-06-23-black-and-white-dev/untitled-1.jpg": {
     "original": {
       "width": 1422,
@@ -3247,6 +3359,20 @@
       "quality": 84
     }
   },
+  "2026-06-23-black-and-white-dev/untitled-2-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1272713
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 547787,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
   "2026-06-23-black-and-white-dev/untitled-2.jpg": {
     "original": {
       "width": 1422,
@@ -3257,6 +3383,398 @@
       "width": 1422,
       "height": 2133,
       "bytes": 626836,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-06-23-black-and-white-dev/untitled-3.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1667511
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 768692,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2704.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1334879
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 122895,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2711.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1709071
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 242570,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2712.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1975910
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 307030,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2724.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1253773
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 124625,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2727.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1854760
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 262779,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2771.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1835787
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 164966,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2818.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2901074
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 367189,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2827-positive.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2134,
+      "bytes": 2923265
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 285737,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2828.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1409990
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 121428,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2831.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2674073
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 282333,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2842.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2202674
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 209799,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2847.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2645559
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 237334,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2861.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3251836
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 401399,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2874.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1690792
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 157396,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2876-positive.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2371042
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 193747,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2896.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2475149
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 241008,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/IMG_2898.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 3267147
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 366897,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-1-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 859875
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 414146,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-1.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1519802
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 655630,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-2-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 999688
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 496582,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1436334
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 626481,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-3-2.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 746391
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 356861,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-3.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1195653
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 470471,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-4.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 852475
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 313996,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-5.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1503956
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 637738,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-6.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 999985
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 398971,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-07-12-Boston-Montreal/untitled-7.jpg": {
+    "original": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 1142890
+    },
+    "display": {
+      "width": 1422,
+      "height": 2133,
+      "bytes": 476979,
       "maxWidth": 1600,
       "quality": 84
     }
