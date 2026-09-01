@@ -3778,5 +3778,61 @@
       "maxWidth": 1600,
       "quality": 84
     }
+  },
+  "2026-08-31-olympus-xa/IMG_3352.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2202366
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 222391,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-08-31-olympus-xa/IMG_3363.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 1870299
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 277083,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-08-31-olympus-xa/IMG_3369.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2481603
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 334387,
+      "maxWidth": 1600,
+      "quality": 84
+    }
+  },
+  "2026-08-31-olympus-xa/IMG_3373.jpg": {
+    "original": {
+      "width": 3200,
+      "height": 2133,
+      "bytes": 2773733
+    },
+    "display": {
+      "width": 1600,
+      "height": 1067,
+      "bytes": 368754,
+      "maxWidth": 1600,
+      "quality": 84
+    }
   }
 }
